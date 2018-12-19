@@ -5231,7 +5231,10 @@ section:hover .small-item-carousel .owl-next{
 }
 .tpl-minimal-tabs-cont{
 }
-
+.tpl-minimal-tabs-cont table td {
+    text-align: center;
+    font-size: 1.2em;
+}
 
 /*
  * Alert messages
